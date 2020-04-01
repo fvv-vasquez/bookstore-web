@@ -1,2 +1,4 @@
 # Ignored files...
 .DS_Store
+.idea
+target
